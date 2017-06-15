@@ -1,0 +1,3 @@
+[submodule "swift-corelibs-foundation"]
+	path = swift-corelibs-foundation
+	url = https://github.com/carlbrown/swift-corelibs-foundation.git
